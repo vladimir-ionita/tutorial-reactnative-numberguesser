@@ -1,2 +1,2 @@
 # About
-This is a React Native mobile application built as a tutorial.
+A React Native mobile application build as part of a tutorial. Number #2 from the series.
